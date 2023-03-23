@@ -7,6 +7,9 @@
 
 # Dependency directories
 node_modules/
+css/style.css
+js/index.js
+dev.html
 
 # Logs
 logs
